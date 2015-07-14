@@ -20,7 +20,7 @@ class Plugin extends PluginBase
             'description' => 'archybold.contactform::lang.plugin.description',
             'author'      => 'archybold',
             'icon'        => 'icon-envelope',
-            'homepage'    => 'https://www.archybold.com/',
+            'homepage'    => 'https://github.com/archy-bold/october-cms-contactform',
         ];
     }
 
