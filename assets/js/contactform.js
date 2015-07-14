@@ -36,7 +36,7 @@ $(function() {
                             .append('</div>');
 
                         //clear all fields
-                        $('#contactForm_contactForm').trigger("reset");
+                        $('#contactForm').trigger("reset");
                     }
                 },
                 error: function(){
